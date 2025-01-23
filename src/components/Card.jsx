@@ -18,6 +18,7 @@ const Card = ({ width, start, para, hover }) => {
             <h1 className="text-5xl font-semibold tracking-tight leading-none">
               start a project
             </h1>
+            <h2>finish the project.</h2>
             <button className="rounded-full py-2 px-5 border-2 border-zinc-50 mt-5">
               Contact US
             </button>

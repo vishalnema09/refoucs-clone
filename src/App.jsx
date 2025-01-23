@@ -9,6 +9,9 @@ import Footer from "./components/Footer";
 import LocomotiveScroll from "locomotive-scroll";
 
 const App = () => {
+
+
+  //hello
   const locomotiveScroll = new LocomotiveScroll();
   return (
     <div className='w-full h-full bg-zinc-900 text-white font-["Satoshi"]'>
