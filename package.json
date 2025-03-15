@@ -1,5 +1,5 @@
 {
-  "homepage": "//github.com/vishalnema09/Refocus",
+  "homepage": "https://vishalnema09.github.io/refoucs-clone",
   "name": "refokus",
   "private": true,
   "version": "0.0.0",
@@ -36,6 +36,4 @@
     "tailwindcss": "^3.4.15",
     "vite": "^5.4.10"
   }
-  
 }
-
